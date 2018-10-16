@@ -1,7 +1,7 @@
 ---
 title: "Milestone Report for NLP Capstone Project"
-author: "Reza Rosli (zaros)"
-date: "29 December 2015"
+author: "Noha Mohamed"
+date: "29 October 2018"
 output: 
   html_document:
     toc: true
@@ -11,7 +11,7 @@ output:
 
 ## Introduction 
 
-This is the milestone report for the Data Science Specialization Capstone Project on Coursera. This report intends to show my current progress and discussion with hopes of obtaining some constructive feedback from my peers and teachers. As the intended audience for this report are non-data scientists, I have kept code output to minimum and if it interests the reader, you may view the source code for this file at my [Github repository](https://github.com/zaros/coursera-capstone).
+This is the milestone report for the Data Science Specialization Capstone Project on Coursera. This report intends to show my current progress and discussion with hopes of obtaining some constructive feedback from my peers and teachers. As the intended audience for this report are non-data scientists, I have kept code output to minimum and if it interests the reader, you may view the source code for this file at my [Github repository](https://github.com/NohaMohamed244/ProgrammingAssignment2).
 
 ## Executive Summary
 
@@ -368,7 +368,7 @@ I have had a number of challenges to reach this far into this project. The learn
 Thank you.
 
 ## Links
-1. The source code for this report can be found here: https://github.com/zaros/coursera-capstone
+1. The source code for this report can be found here: https://github.com/NohaMohamed244/ProgrammingAssignment2
 2. The list of bad words was obtained from: http://www.bannedwordlist.com
 
 
